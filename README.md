@@ -4,7 +4,7 @@ berikut langkah-langkah menginstall Git:
 
 1. Pertama kita download Git terlebih dahulu. 
     
-    ![instal1](img/instalgit-1.png)
+    ![instal1](instalgit-1.png)
 
 2. Setelah selesai download, buka file yang telah didownload lalu muncul lisensi dan klik next.  
 
@@ -127,4 +127,9 @@ Langkah ini cukup dilakukan sekali saja, kecuali jika ingin melakukan perubahan 
  6. buka kembali Git bash (cmd), lalu ketik "git clone https://github.com/wiratama43/01-git-github.git" setelah itu enter dan seperti ini hasil nya:
     ![clone3](img/clone-3.png)
 </ul>
+
+## MENGELOLA REPO
+
+MENGUBAH ISI MELALUI VISUAL STUDIO CODE :
+1. 
  
