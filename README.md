@@ -1,9 +1,13 @@
-<h2>Instalasi Git.<br></h2>
+<h2>Instalasi Git.</h2>
+<br>
 Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama. Fungsi utama git yaitu mengatur versi dari source code program anda dengan mengasih tanda baris dan code mana yang ditambah atau diganti.Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja. Git tersedia untuk berbagai sistem operasi. Precompiled binaries bisa diperoleh di halaman dowbload Git untuk 3 sistem operasi utama: Linux, Mac OS X, dan Windows. Git bisa menggunakan antarmuka grafis (GUI) maupun CLI (command line interface). Pada materi ini, kita akan banyak menggunakan antarmuka CLI melalui shell (Linux / Mac OS X) atau command prompt / PowerShell di Windows.<br> 
-berikut langkah-langkah menginstall Git sebagai berikut:<br>
-1. Pertama kita harus download Git terlebih dahulu. <img src="https://user-images.githubusercontent.com/91447664/134845967-2d0d6a22-8290-4d4a-8297-b0171f0921cf.png"> 
-2. Kedua setelah download, buka file yang sudah didownload lalu muncul lisensi dan klik next.  <img src="https://user-images.githubusercontent.com/91447664/134846522-891e462c-368d-4c0a-a0e6-e81cb24ff5ce.png"> 
-3. Ketiga pilih lokasi instalasi lalu klik next. <img src="https://user-images.githubusercontent.com/91447664/134866738-5b39dce3-202e-4297-af03-87b0ad0b4ac4.png">
+berikut langkah-langkah menginstall Git sebagai berikut:
+<br>
+1. Pertama kita download Git terlebih dahulu. 
+<img src="https://user-images.githubusercontent.com/91447664/134845967-2d0d6a22-8290-4d4a-8297-b0171f0921cf.png"> 
+2. Setelah selesai download, buka file yang telah didownload lalu muncul lisensi dan klik next.  
+<img src="https://user-images.githubusercontent.com/91447664/134846522-891e462c-368d-4c0a-a0e6-e81cb24ff5ce.png"> 
+3. Pilih lokasi instalasi lalu klik next. <img src="https://user-images.githubusercontent.com/91447664/134866738-5b39dce3-202e-4297-af03-87b0ad0b4ac4.png">
 4. setelah itu pilih komponen lalu klik next. <img src="https://user-images.githubusercontent.com/91447664/134866922-a762e2ae-7c9c-4afd-8dff-46b9acf4d8c7.png">
 5. selanjutnya mengisi shortcut untuk menu Start dan gunakan default Gif. <img src="https://user-images.githubusercontent.com/91447664/134867448-76cf12fc-89a2-4d12-95a2-43263348fb3f.png">
 6. lalu pilih editor yang akan digunakan bersama dengan Git. Pada pilihan ini, saya menggunakan visual studio code. <img src="https://user-images.githubusercontent.com/91447664/134867818-1bd678ad-77a7-4a23-b1b8-2645001bf885.png">
@@ -50,4 +54,8 @@ Langkah ini cukup dilakukan sekali saja, kecuali jika ingin melakukan perubahan 
  4. lalu buka kembali Github dan pilih repo yang akan disimpan.<br>
  5. kemudian klik tombol <b>Code<b/> dan copy paste link https nya.<img src="https://user-images.githubusercontent.com/91447664/135115601-a32bab8e-f292-4935-afd6-b3172157ce2f.png"><br><br>
  6. buka kembali Git bash (cmd), lalu ketik "git clone https://github.com/rizqi2105/01-mppl.git" setelah itu enter dan seperti ini hasil nya: <img src="https://user-images.githubusercontent.com/91447664/135117806-13ddfefb-2ae6-486a-86da-9240ce7a7389.png">
+
+
+
+ ![waterfall](img/Screenshot (115))
 </ul>
