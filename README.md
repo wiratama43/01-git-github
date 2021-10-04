@@ -54,8 +54,8 @@ Langkah ini cukup dilakukan sekali saja, kecuali jika ingin melakukan perubahan 
  4. lalu buka kembali Github dan pilih repo yang akan disimpan.<br>
  5. kemudian klik tombol <b>Code</b> dan copy paste link https nya.<img src="https://user-images.githubusercontent.com/91447664/135115601-a32bab8e-f292-4935-afd6-b3172157ce2f.png"><br><br>
  6. buka kembali Git bash (cmd), lalu ketik "git clone https://github.com/rizqi2105/01-mppl.git" setelah itu enter dan seperti ini hasil nya: <img src="https://user-images.githubusercontent.com/91447664/135117806-13ddfefb-2ae6-486a-86da-9240ce7a7389.png">
-
+</ul>
 
 
  ![GitHub Logo](/images/instalgit-1.PNG)
-</ul>
+ -
