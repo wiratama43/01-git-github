@@ -52,10 +52,10 @@ Langkah ini cukup dilakukan sekali saja, kecuali jika ingin melakukan perubahan 
  2. lalu pilih lokasi penyimpanan/folder untuk penyimpanan clone repo yang akan disimpan. <img src="https://user-images.githubusercontent.com/91447664/135113978-9ebf2ca6-130f-466d-bf7d-2b15db2528f3.png"><br><br>
  3. setelah itu klik kanan pada folder yang mau disimpan, setelah itu pilih Git bash here.<img src="https://user-images.githubusercontent.com/91447664/135114578-de420357-85a2-4956-8585-266ba56a7ca4.png"><br><br>
  4. lalu buka kembali Github dan pilih repo yang akan disimpan.<br>
- 5. kemudian klik tombol <b>Code<b/> dan copy paste link https nya.<img src="https://user-images.githubusercontent.com/91447664/135115601-a32bab8e-f292-4935-afd6-b3172157ce2f.png"><br><br>
+ 5. kemudian klik tombol <b>Code</b> dan copy paste link https nya.<img src="https://user-images.githubusercontent.com/91447664/135115601-a32bab8e-f292-4935-afd6-b3172157ce2f.png"><br><br>
  6. buka kembali Git bash (cmd), lalu ketik "git clone https://github.com/rizqi2105/01-mppl.git" setelah itu enter dan seperti ini hasil nya: <img src="https://user-images.githubusercontent.com/91447664/135117806-13ddfefb-2ae6-486a-86da-9240ce7a7389.png">
 
 
 
- ![Screenshot (115)](img/Screenshot (115))
+ ![waterfall](img/instalgit-1.jpg)
 </ul>
