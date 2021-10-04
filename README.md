@@ -135,3 +135,11 @@ MENGUBAH ISI MELALUI VISUAL STUDIO CODE :
 2. Lalu tulis isi repo sesuai dengan keperluan seperti gambar dibawah
     ![ubah1](ubah-1.png)
  
+## PUSH REPO
+CARA PUSH REPO DENGAN GIT BASH:
+1. Klik kanan pada folder yang ingin di push
+2. Lalu pilih Git Bash here
+3. Ketikkan $ git commit -m "Add: README.md"
+4. Setelah itu ketikkan $ git push origin main
+5. Setelah selesai maka folder atau file akan terupload pada repo
+    ![push1](push-1.png)
