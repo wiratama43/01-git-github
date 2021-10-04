@@ -132,7 +132,8 @@ Langkah ini cukup dilakukan sekali saja, kecuali jika ingin melakukan perubahan 
 
 MENGUBAH ISI MELALUI VISUAL STUDIO CODE :
 1. Buka vs code lalu buka file repo yang ingin dikelola
-2. Lalu tulis isi repo sesuai dengan keperluan seperti gambar dibawah
+2. Lalu tulis isi repo sesuai dengan keperluan
+3. Setelah selesai lalu di save
     ![ubah1](ubah-1.png)
  
 ## PUSH REPO
