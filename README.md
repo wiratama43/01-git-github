@@ -57,5 +57,5 @@ Langkah ini cukup dilakukan sekali saja, kecuali jika ingin melakukan perubahan 
 
 
 
- ![GitHub Logo](/images/instalgit-1.jpg)
+ ![GitHub Logo](/images/instalgit-1.PNG)
 </ul>
