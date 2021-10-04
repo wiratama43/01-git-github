@@ -4,67 +4,67 @@ berikut langkah-langkah menginstall Git:
 
 1. Pertama kita download Git terlebih dahulu. 
     
-    ![instal](img/instalgit-1.png)
+    ![instal1](img/instalgit-1.png)
 
 2. Setelah selesai download, buka file yang telah didownload lalu muncul lisensi dan klik next.  
 
-    ![instal](img/instalgit-2.png)
+    ![instal2](img/instalgit-2.png)
 
 3. Pilih lokasi instalasi lalu klik next. 
 
-    ![instal](img/instalgit-3.png)
+    ![instal3](img/instalgit-3.png)
 
 4. setelah itu pilih komponen lalu klik next. 
 
-    ![instal](img/instalgit-4.png)
+    ![instal4](img/instalgit-4.png)
 
 5. selanjutnya mengisi shortcut untuk menu Start dan gunakan default Git lalu klik next. 
 
-    ![instal](img/instalgit-5.png)
+    ![instal5](img/instalgit-5.png)
 
 6. Lalu pilih editor yang ingin digunakan dari Git. Pada pilihan ini, saya menggunakan visual studio code setelah itu klik next. 
 
-    ![instal](img/instalgit-6.png)
+    ![instal6](img/instalgit-6.png)
 7. Pilih Git to name the initial branch pilihan pertama yaitu Let Git decide. 
 
-    ![instal](img/instalgit-7.png)
+    ![instal7](img/instalgit-7.png)
 
 8. Lalu pilih path environment.
 
-    ![instal](img/instalgit-8.png)
+    ![instal8](img/instalgit-8.png)
 
 9. Pilih openSSH untuk ssh.
 
-    ![instal](img/instalgit-9.png)
+    ![instal9](img/instalgit-9.png)
 
 10. Pilih openSSL untuk HTTPS.
 
-    ![instal](img/instalgit-10.png)
+    ![instal10](img/instalgit-10.png)
 
 11. Pilih opsi pertama untuk konversi akhir baris (CR-LF). 
 
-    ![instal](img/instalgit-11.png)
+    ![instal11](img/instalgit-11.png)
 
 12. Selanjutnya pilih PuTTY untuk terminal yang digunakan untuk mengakses Git Bash.
 
-    ![instal](img/instalgit-12.png)
+    ![instal12](img/instalgit-12.png)
 
 13. selanjut nya pilih Git Credential manager core. 
 
-    ![instal](img/instalgit-14.png)
+    ![instal13](img/instalgit-14.png)
 
 14. Untuk opsi ekstra, pilih serta aktifkan enable file system caching. 
 
-    ![instal](img/instalgit-15.png)
+    ![instal14](img/instalgit-15.png)
 
 
 15. Klik instal, setelah proses install selesai lalu klik finish. 
 
-    ![instal](img/instalgit-16.png)
+    ![instal15](img/instalgit-16.png)
 
 16. Untuk mencoba atau melihat versi git dari command prompt, masuk ke command prompt, setelah itu eksekusi "git --version" untuk melihat apakah sudah terinstall atau belum. Jika sudah terinstall dengan benar, makan akan muncul hasil berikut:
 
-    ![cekgit](img/cekgit.png)
+    ![cekgit1](img/cekgit.png)
 
 <br>
 
@@ -75,15 +75,15 @@ langkah untuk konfigurasi Git sebagai berikut:
 <br>
 
 1. buka Git Bash di menu pencarian pada komputer/laptop.
-     ![konfigurasi](img/konfigurasi-1.png)
+     ![konfigurasi1](img/konfigurasi-1.png)
 <br>
 
 2. Setelah git bash terbuka ketik "git config --global user.name "Nama Anda di GitHub"",lalu ketik "git config --global user.email email@domain.tld"
-    ![konfigurasi](img/konfigurasi-2.png)
+    ![konfigurasi2](img/konfigurasi-2.png)
 <br>
 
 4. Untuk melihat konfigurasi yang sudah ada ketik"git config --list", lalu enter.
-    ![konfigurasi](img/konfigurasi-3.png)
+    ![konfigurasi3](img/konfigurasi-3.png)
 <br>
 Langkah ini cukup dilakukan sekali saja, kecuali jika ingin melakukan perubahan nama dan email.
 
@@ -97,11 +97,11 @@ Langkah ini cukup dilakukan sekali saja, kecuali jika ingin melakukan perubahan 
  <br>
 
  2. Klik tanda + pada bagian atas, setelah itu pilih New repository.
-    ![kelola](img/kelola-1.png)
+    ![kelola1](img/kelola-1.png)
  <br>
 
  3. setelah itu isikan nama, deskripsi, type repo, serta lisensi. Jika sudah klik Create Repository.
-    ![kelola](img/kelola-2.png)
+    ![kelola2](img/kelola-2.png)
  <br>
 
 ## CLONE REPO
@@ -115,16 +115,16 @@ Langkah ini cukup dilakukan sekali saja, kecuali jika ingin melakukan perubahan 
  <br>
 
  3. setelah itu klik kanan pada folder yang mau disimpan, setelah itu pilih Git bash here.
-    ![clone](img/clone-1.png)
+    ![clone1](img/clone-1.png)
  <br>
 
  4. Lalu buka kembali Github dan pilih repo yang akan disimpan.<br>
 
  5. Kemudian klik tombol "Code" dan copy paste link https nya.
-    ![clone](img/clone-2.png)
+    ![clone2](img/clone-2.png)
  <br>
 
  6. buka kembali Git bash (cmd), lalu ketik "git clone https://github.com/wiratama43/01-git-github.git" setelah itu enter dan seperti ini hasil nya:
-    ![clone](img/clone-3.png)
+    ![clone3](img/clone-3.png)
 </ul>
  
