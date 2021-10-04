@@ -57,5 +57,5 @@ Langkah ini cukup dilakukan sekali saja, kecuali jika ingin melakukan perubahan 
 
 
 
- ![waterfall](img/Screenshot (115))
+ ![Screenshot (115)](img/Screenshot (115))
 </ul>
